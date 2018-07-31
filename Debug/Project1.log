@@ -1,0 +1,3 @@
+﻿  main.cpp
+b:\__programming projects\game _sfml\main.cpp(77): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Project1.vcxproj -> B:\__Programming Projects\Game _SFML\Debug\MyFirstGame.exe
