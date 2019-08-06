@@ -6,7 +6,7 @@ The game is intented to have a 2D arcade game look. The game objective, is to co
 <a href="https://ibb.co/nfUrET"><img src="https://preview.ibb.co/g1yU18/Version_1.png" alt="Version_1" border="0"></a>
 
 # Version 1.1:
-
+<a href="https://ibb.co/4WNVBj7"><img src="https://i.ibb.co/wy6zDKR/Capture.png" alt="Capture" border="0" /></a>
 
 # Game Dependencies:
 <ul>
